@@ -53,7 +53,6 @@ const HeroSection = () => {
       { opacity: 1, x: "0" }
     );
     gsap.fromTo("#blueDiv", { opacity: 0.1, x: "10" }, { opacity: 1, x: "0" });
-
     return () => {};
   }, []);
 
@@ -61,7 +60,7 @@ const HeroSection = () => {
     <div className="flex h-[86vh] items-center">
       <div className="ml-40">
         <p className="font-semibold text-lg text-[#2f2f2f]">
-          Learn from the best of Industry
+          Holi
         </p>
         <div
           id="blueDiv"
@@ -71,7 +70,7 @@ const HeroSection = () => {
           className="text-6xl gradient-text relative -ml-[4px] my-5 font-bold  font-[Montserrat] leading-tight"
           id="heroHeading"
         >
-          Highest in quality, affordable in Price
+          Festival Of Colours
         </h1>
         <p className="text-xl leading-snug text-[#494949] w-[60%] mb-7">
           Digital entrepreneurs, Youtubers and content creators provide

@@ -46,7 +46,7 @@ code {
 }
 
 .footer {
-  background-image: url(./assets/partnerImage/footerBg.jpg);
+  /* background-image: url(./assets/partnerImage/footerBg.jpg); */
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: overlay;
   background-position: top 0 right 0;
